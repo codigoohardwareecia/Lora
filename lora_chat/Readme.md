@@ -3,7 +3,9 @@
 #### Requisitos
 
 - Arduino IDE
-- 2 unidades de Lora32 da Heltec
+- 2 unidades de Lora32 da Heltec, vou indicar o link do Mercado Livre que eu comprei, procure por "Placa Wifi Lora 32 - Esp32 Lora Display Oled"
+https://produto.mercadolivre.com.br/MLB-944472408-placa-wifi-lora-32-esp32-lora-display-oled-_JM?quantity=4&sid=purchases
+
 - Para os testes vai precisar de dois celulares ou notebook para se conectar ao Wifi do Lora
 #### 1. Adicionar a URL da Heltec às Preferências
 
